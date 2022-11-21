@@ -1,0 +1,9 @@
+gpt-2-simple
+tensorflow
+notebook
+matplotlib
+sklearn
+wandb
+scikit-learn
+scikit-image
+pandas
