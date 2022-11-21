@@ -56,7 +56,7 @@ python nvf_run.py --epoch 1000 --batch 128 --hidden_features 32 --residual_block
 ```
 where the `test_iter` indicate the best validation iteration.
 
-# Vision Data
+### Vision Data
 
 ```CUDA_VISIBLE_DEVICES=0 python nvf_run.py --data mnist --n_flow 32 --lr 1e-5 --epoch 1 --is_test 0```
 
