@@ -98,10 +98,10 @@ Shizhe Diao: A (AT) B, where A=sdiaoaa, B=ust.hk.
 ## Citation
 If you find this repository useful, please considering giving ⭐ or citing:
 ```
-@inproceedings{NVF-2022,
+@inproceedings{NVF2022,
     title = "Normalizing Flow with Variational Latent Representation",
-    author = "Hanze Dong*, Shizhe Diao*, Weizhong Zhang, Tong Zhang",
-    month = oct,
+    author = "Hanze Dong, Shizhe Diao, Weizhong Zhang, Tong Zhang",
+    month = Nov,
     year = "2022",
 }
 ```
