@@ -1,6 +1,6 @@
 # NVF
 
-> This repository contains the codes for [Normalizing Flow with Variational Latent Representation]()  
+> This repository contains the codes for [Normalizing Flow with Variational Latent Representation](https://arxiv.org/abs/2211.11638)  
 by Hanze Dong\*, Shizhe Diao\*, Weizhong Zhang, Tong Zhang.
 
 ## An one-line pipeline
@@ -98,10 +98,10 @@ Shizhe Diao: A (AT) B, where A=sdiaoaa, B=ust.hk.
 ## Citation
 If you find this repository useful, please considering giving ⭐ or citing:
 ```
-@inproceedings{NVF2022,
-    title = "Normalizing Flow with Variational Latent Representation",
-    author = "Hanze Dong, Shizhe Diao, Weizhong Zhang, Tong Zhang",
-    month = Nov,
-    year = "2022",
+@article{nvf2022,
+  title={Normalizing Flow with Variational Latent Representation},
+  author={Dong, Hanze and Diao, Shizhe and Zhang, Weizhong and Zhang, Tong},
+  journal={arXiv preprint arXiv:2211.11638},
+  year={2022}
 }
 ```
